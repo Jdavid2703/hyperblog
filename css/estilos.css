@@ -42,3 +42,9 @@ body
 {
     padding: 1em;
 }
+
+#nombre{
+    color: #ff5e00;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px #ffee42;
+}
