@@ -49,3 +49,13 @@ body
     font-weight: bold;
     text-shadow: 1px 1px 1px #ffee42;
 }
+
+#footer{
+    background-color: #17162d;
+    padding: 1px 0px;
+}
+
+#footer p{
+    text-align: center;
+    color: white;
+}
