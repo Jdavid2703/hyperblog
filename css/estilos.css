@@ -52,6 +52,15 @@ body
     text-shadow: 1px 1px 1px #ffee42;
 }
 
+#portada2min{
+    justify-content: center;
+    display: flex;
+}
+#portada2min img{
+    border: 1px solid #17162d;
+    box-shadow: 0px 0px 8px 1px #17162d;
+}
+
 #footer{
     background-color: #17162d;
     padding: 1px 0px;
