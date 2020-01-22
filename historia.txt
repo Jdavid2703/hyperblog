@@ -3,6 +3,6 @@ Esta es la historia de Juan David Hernández López
 Juan David, nació el 27 de marzo en Medellín-Colombia, tiene 18 años.
 Estudia Ingeniería de Sistemas en la Universidad de San Buenaventura; además, ya cuenta con un titulo técnico en Programación de Software.
 
-Juan David, no para de aprender y va por MAS!
+Juan David, no para de aprender y va por MAS!   ## Excelente Juan! Sigue así (Mensaje motivacional)
 
 La perseverancia es el secreto de las victorias...
